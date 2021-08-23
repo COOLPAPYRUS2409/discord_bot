@@ -1,0 +1,16 @@
+{
+  "name": "plantagenet_bot",
+  "version": "1.0.0",
+  "description": "A bot specially made for Plantagenet. guild",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "init": "^0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YztHerE#3726",
+  "license": "ISC"
+}
